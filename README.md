@@ -2,7 +2,7 @@
 
 This repo contains my solution to one homework from Wireless Systems. It evaluates [flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29) routing protocol in wireless sensor networks (or MANETs).
 
-### Assignemnt
+### Assignment
 We were given a template `Flooding_Template.m` file with basic structure indication via steps such as:
 ```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
