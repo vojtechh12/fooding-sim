@@ -10,8 +10,10 @@ We were given a template `Flooding_Template.m` file with basic structure indicat
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ```
 we were also provided with the plotting section at the end. The goal was to implement the algorithm based on lecture to get plots like these:
-![](Hops.png)
-![](Messages.png)
+<p align="center">
+  <img src="Hops.png" alt="Hops plot" width="45%" />
+  <img src="Messages.png" alt="Messages plot" width="45%" />
+</p>
 
 ### NOTE:
 - It is a Monte Carlo Simulation, so there is a little bit of variance permitted.
